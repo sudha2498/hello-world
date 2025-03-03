@@ -1,0 +1,6 @@
+Initialize new repository in a directory
+$git Initialize
+To see the status of the file 
+git status
+To add the file for tracking
+$git add file.txt
