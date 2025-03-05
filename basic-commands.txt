@@ -4,3 +4,9 @@ To see the status of the file
 git status
 To add the file for tracking
 $git add file.txt
+
+
+IN VS
+git clone git@github.com:sudha2498/hello-world.git
+code .
+
